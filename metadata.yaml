@@ -1,0 +1,32 @@
+_repo: The-sentinel-stars_70962
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Charbonneau, Louis
+    aliases:
+    - Charbonneau, Louis Henry
+    - Young, Carter Travis
+    birthdate: 1924
+    deathdate: 2017
+    gutenberg_agent_id: '55910'
+    url: http://www.gutenberg.org/2009/agents/55910
+description: ''
+gutenberg_issued: '2023-06-12'
+identifiers:
+  gutenberg: '70962'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435074834755&view=1up&seq=5
+pgterms:marc905: 20221126055412charbonnea
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bBantam Books, Inc., $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The sentinel stars
+url: http://www.gutenberg.org/ebooks/70962
